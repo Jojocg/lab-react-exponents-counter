@@ -70,6 +70,10 @@
   margin-bottom: 0.5rem;
 }
 
+.exponent-number {
+  font-size: 1.2rem;
+}
+
 .exponent-result {
   font-size: 1.5rem;
   font-weight: 500;
